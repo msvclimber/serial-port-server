@@ -1,0 +1,17 @@
+{
+  "name": "sp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sp.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-router": "^8.0.6",
+    "serialport": "^8.0.6",
+    "socket.io": "^2.3.0"
+  }
+}
