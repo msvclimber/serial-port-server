@@ -3,7 +3,7 @@ const SerialPort = require("serialport");
 const getComPorts = () => SerialPort.list();
 
 // const port = new SerialPort("COM3", {
-//   baudRate: 9600
+//   baudRate: 9600 777777
 // });
 
 // port.write('main screen turn on', function(err) {
