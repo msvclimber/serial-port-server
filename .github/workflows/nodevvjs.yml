@@ -1,9 +1,6 @@
 name: Node.js CI ggg
 
-on:
-  push:
-    branches:
-      - xxx-1
+on: [push]
 
 jobs:
   build:
