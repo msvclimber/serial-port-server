@@ -1,8 +1,9 @@
-name: Node.js Package
+name: Node ffff
 
 on:
-  release:
-    types: [created]
+  push:
+    branches:
+      - xxx
 
 jobs:
   build:
